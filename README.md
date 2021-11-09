@@ -3,4 +3,22 @@ Wireless weather station that collects data locally on the device you are connec
 
 Arduino for all the sensors and ESP8266 to broadcast the information.
 
-With only few sensors you wouldn't need the Arduino, but with this many you do. Power distribution wasn't enough on HUZZAH or NodeMCU for all of these.
+Simply connect with Wi-Fi on any device, creates captive portal window but can be also accessed http://w.s locally.
+
+![Graph seen on mobile device](/images/liveGraph.jpg)
+
+Files contained in SPIFFS memory on ESP8266.
+
+![Stats seen on mobile device](/images/liveStats.jpg)
+
+![System sketch](/images/sketch.png)
+
+Components used in project:
+• 1x BME280
+• 1x BMP280
+• 2x DHT11
+• 1x MiCS-5524
+• 1x MQ-2
+• 1x Arduino Mega 2560
+
+![Real world version](/images/liveGraph.jpg)
