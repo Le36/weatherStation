@@ -5,13 +5,13 @@ Arduino for all the sensors and ESP8266 to broadcast the information.
 
 Simply connect with Wi-Fi on any device, creates captive portal window but can be also accessed http://w.s locally.
 
-![Graph seen on mobile device](/images/liveGraph.jpg)
+![Graph seen on mobile device](/images/liveGraph.jpg | width=100)
 
 Files contained in SPIFFS memory on ESP8266.
 
-![Stats seen on mobile device](/images/liveStats.jpg)
+![Stats seen on mobile device](/images/liveStats.jpg | width=100)
 
-![System sketch](/images/sketch.png)
+![System sketch](/images/sketch.png | width=100)
 
 Components used in project:
 • 1x BME280
@@ -21,4 +21,4 @@ Components used in project:
 • 1x MQ-2
 • 1x Arduino Mega 2560
 
-![Real world version](/images/liveGraph.jpg)
+![Real world version](/images/liveGraph.jpg | width=100)
