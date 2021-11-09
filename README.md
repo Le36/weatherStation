@@ -14,6 +14,7 @@ Files contained in SPIFFS memory on ESP8266.
 ![System sketch](/images/sketch.png)
 
 Components used in project:
+
 • 1x BME280
 
 • 1x BMP280
@@ -27,4 +28,5 @@ Components used in project:
 • 1x Arduino Mega 2560
 
 • 1x Adafruit Feather Huzzah ESP8266
+
 ![Real world version](/images/asbuilt.jpg)
